@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            asdafad;vb
+            Console.WriteLine("Hello world");
+            asadgasdg;
         }
     }
 }
