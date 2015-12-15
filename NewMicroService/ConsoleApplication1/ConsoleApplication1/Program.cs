@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world again");
+            Console.WriteLine("not on master branch");
         }
     }
 }
